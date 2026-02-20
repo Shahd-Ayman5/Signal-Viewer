@@ -32,9 +32,7 @@ The viewer integrates multiple AI models and interactive visualization modes for
 
 Here’s how the main interface of the Signal Viewer looks:
 
-<img width="1876" height="860" alt="Screenshot 2025-10-11 022524" src="https://github.com/user-attachments/assets/1053632c-122e-443c-be33-453c36f16971" />
-
- 
+ <img width="1876" height="860" alt="Home Page" src="https://github.com/user-attachments/assets/e1c94f00-cc5b-4147-ac94-7ee80be83e7e" />
 
 ---
 
