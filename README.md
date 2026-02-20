@@ -1,12 +1,3 @@
-
-https://github.com/user-attachments/assets/6bf71efb-fc0d-4b47-a98d-b69239d60a28
-
-https://github.com/user-attachments/assets/9ed47174-b575-4e92-bc88-31c1e6c47fbb
-
-https://github.com/user-attachments/assets/93002027-cc96-4e1b-9710-6b24d8d870fe
-<img width="1891" height="879" alt="3" src="https://github.com/user-attachments/assets/a25d1809-86cc-484b-a9a1-0aa03edb0d5c" />
-https://github.com/user-attachments/assets/03161f73-dec4-4d85-b559-79b2552b1ff7
-
 <div align="center">
 
 # **Multi Signal Viewer with AI detection**
